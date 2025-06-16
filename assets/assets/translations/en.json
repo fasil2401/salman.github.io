@@ -49,9 +49,11 @@
             "role": "Senior Flutter Developer",
             "company": "Mint Solutions DMCC (Client: RAK Properties PJSC, Ras Al Khaimah, UAE)",
             "description": "Exclusively working on-site at RAK Properties PJSC, a leading real estate developer in Ras Al Khaimah,developing and maintaining their mobile applications.\nHandling both Frontend (Flutter) and Backend (.NET Core) development, ensuring seamless application performance and scalability.\nImplemented complex authentication systems, including UAE Pass and Microsoft Sign-In, to enhance security and user experience.\nDesigned and deployed CI/CD pipelines using GitHub, optimizing the development lifecycle and deployment process.\nDeveloped and integrated Firebase Push Notifications, improving real-time communication with users.\nEngineered complex in-app WebView implementations, providing an enhanced browsing experience within the application.\nDesigned, optimized, and managed SQL databases, ensuring efficient data storage, retrieval, and system performance.\nPlanned and managed projects, defining development timelines, overseeing execution, and ensuring timely delivery.\nCollaborating with cross-functional teams at RAK Properties PJSC to align mobile applications with business needs and user requirements.",
-            "isPresent": true,
+            "isPresent": false,
             "startYear": 2024,
             "startMonth": 6,
+            "endYear": 2025,
+            "endMonth": 4,
             "technologies": [
                 {
                     "name": "Flutter",
